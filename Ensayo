@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Ensayo Crítico - Design Fiction</title>
+    <link rel="stylesheet" href="Estilo.css">
+</head>
+<body>
+    <nav>
+        <a href="#paper">Paper y Autor</a>
+        <a href="#proyecto">Proyecto y Creador</a>
+        <a href="#crítica">Vinculación Crítica</a>
+        <a href="#conclusión">Conclusión</a>
+        <a href="#referencias">Referencias</a>
+    </nav>
+
+    <section id="paper">
+    <h2>Paper y Autor</h2>
+    <p>Aquí vamos a escribir la descripción del paper y la info del autor</p>
+ </section>
+
+    <section id="proyecto">
+    <h2>Proyecto y Creador</h2>
+    <p>Aquí escribimos una descripción del proyecto y la info de los autores</p>
+</section>
+
+<section id="crítica">
+    <h2>Vinculación Crítica</h2>
+    <p>Aquí escribimos la vinculación entre el paper y el proyecto</p>
+</section>
+
+<section id="conclusión">
+    <h2>Conclusión</h2>
+    <p>Conclusión y reflexiones</p>
+</section>
+
+<section id="referencias">
+    <h2>Referencias</h2>
+    <p>Referencias/bibliografía</p>
+</section>
+
+<br>
+
+<button onclick="document.body.classList.toggle('oscuro')">Modo oscuro</button>
+
+
+</body>
+</html>
